@@ -1,4 +1,6 @@
 Chitter
+==========
+
 - a little Twitter clone that will aloww the users to post messsages to a public stream.
 
 Features:
